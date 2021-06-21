@@ -24,10 +24,10 @@
 </ul>
 <font size=4>3 GUIA Y VIDEOS DEL SISTEMA DE CONTRALORIA SOCIAL (SICS)</font>
 <ul>
-  <li><a href="./files/PIFI/PIFI-2012/3-GUIA-Y-VIDEOS/1-sics.wmv">1 SICS</a></li>
-  <li><a href="./files/PIFI/PIFI-2012/3-GUIA-Y-VIDEOS/2-liniamientos-de-contraloria-social.wmv">2 liniamientos de contraloria social</a></li>
-  <li><a href="./files/PIFI/PIFI-2012/3-GUIA-Y-VIDEOS/3-esuquema.wmv">3 esuquema</a></li>
-  <li><a href="./files/PIFI/PIFI-2012/3-GUIA-Y-VIDEOS/4-modulo-de-seguimiento.wmv">4 modulo de seguimiento</a></li>
+  <li><a href="./files/PIFI/PIFI-2012/3-GUIA-Y-VIDEOS/1-sics.mp4">1 SICS</a></li>
+  <li><a href="./files/PIFI/PIFI-2012/3-GUIA-Y-VIDEOS/2-liniamientos-de-contraloria-social.mp4">2 liniamientos de contraloria social</a></li>
+  <li><a href="./files/PIFI/PIFI-2012/3-GUIA-Y-VIDEOS/3-esquema.mp4">3 esquema</a></li>
+  <li><a href="./files/PIFI/PIFI-2012/3-GUIA-Y-VIDEOS/4-modulo-de-seguimiento.mp4">4 modulo de seguimiento</a></li>
   <li><a href="./files/PIFI/PIFI-2012/3-GUIA-Y-VIDEOS/5-modulo-de-datos-del-programa.mp4">5 modulo de datos del programa</a></li>
   <li><a href="./files/PIFI/PIFI-2012/3-GUIA-Y-VIDEOS/6-modulo-de-difusion.mp4">6 MODULO DE DIFUSION</a></li>
   <li><a href="./files/PIFI/PIFI-2012/3-GUIA-Y-VIDEOS/7-modulo-de-capacitacion.mp4">7 modulo de capacitacion</a></li>

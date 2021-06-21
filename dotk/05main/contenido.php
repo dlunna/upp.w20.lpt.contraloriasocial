@@ -1,12 +1,14 @@
 <br />
 
-<!-- Section Modelo Educativo -->
+<!-- Section Modelo Educativo
 <section id="portada">
   <div class="container">
     <h1 class="display-4">"Contraloría social"</h1>
-    <?php include ('./dotk/05main/01portada.php'); ?>
+    <?php //include ('./dotk/05main/01portada.php'); ?>
   </div>
 </section>
+
+-->
 
 
 <!-- Section Modelo Educativo -->
@@ -20,14 +22,15 @@
 
         <div class="col-3">
           <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+            <a class="nav-link active" id="v-pills-portada-tab" data-toggle="pill" href="#v-pills-portada" role="tab" aria-controls="v-pills-portada" aria-selected="false">PORTADA</a>
             <font size=4>FOMES</font>
-            <a class="nav-link active" id="v-pills-fomes2009-tab" data-toggle="pill" href="#v-pills-fomes2009" role="tab" aria-controls="v-pills-fomes2009" aria-selected="false">FOMES 2009</a>
+            <a class="nav-link" id="v-pills-fomes2009-tab" data-toggle="pill" href="#v-pills-fomes2009" role="tab" aria-controls="v-pills-fomes2009" aria-selected="false">FOMES 2009</a>
             <a class="nav-link" id="v-pills-fomes2010-tab" data-toggle="pill" href="#v-pills-fomes2010" role="tab" aria-controls="v-pills-fomes2010" aria-selected="false">FOMES 2010</a>
             <font size=4>PIFI</font>
             <a class="nav-link" id="v-pills-pifi2008-tab" data-toggle="pill" href="#v-pills-pifi2008" role="tab" aria-controls="v-pills-pifi2008" aria-selected="false">PIFI 2008</a>
             <a class="nav-link" id="v-pills-pifi2011-tab" data-toggle="pill" href="#v-pills-pifi2011" role="tab" aria-controls="v-pills-pifi2011" aria-selected="false">PIFI 2011</a>
             <a class="nav-link" id="v-pills-pifi2012-tab" data-toggle="pill" href="#v-pills-pifi2012" role="tab" aria-controls="v-pills-pifi2012" aria-selected="false">PIFI 2012</a>
-            <a class="nav-link" id="v-pills-pifi2013-tab" data-toggle="pill" href="#v-pills-pifi2013" role="tab" aria-controls="v-pills-pifi2013" aria-selected="false">PIFI 2013</a>
+            <!--<a class="nav-link" id="v-pills-pifi2013-tab" data-toggle="pill" href="#v-pills-pifi2013" role="tab" aria-controls="v-pills-pifi2013" aria-selected="false">PIFI 2013</a>-->
             <font size=4>PROFOCIE</font>
             <a class="nav-link" id="v-pills-profocie2014-tab" data-toggle="pill" href="#v-pills-profocie2014" role="tab" aria-controls="v-pills-profocie2014" aria-selected="false">PROFOCIE 2014</a>
             <a class="nav-link" id="v-pills-profocie2015-tab" data-toggle="pill" href="#v-pills-profocie2015" role="tab" aria-controls="v-pills-profocie2015" aria-selected="false">PROFOCIE 2015</a>
@@ -48,10 +51,13 @@
         <div class="col-9">
           <div class="tab-content" id="v-pills-tabContent">
 
-            <div class="tab-pane fade show active" id="v-pills-fomes2009" role="tabpanel" aria-labelledby="v-pills-fomes2009-tab">
-              <?php include ('./dotk/05main/fomes2009.php'); ?>
+            <div class="tab-pane fade show active" id="v-pills-portada" role="tabpanel" aria-labelledby="v-pills-portada-tab">
+              <?php include ('./dotk/05main/portada.php'); ?>
             </div>
 
+            <div class="tab-pane fade" id="v-pills-fomes2009" role="tabpanel" aria-labelledby="v-pills-fomes2009-tab">
+              <?php include ('./dotk/05main/fomes2009.php'); ?>
+            </div>
 
             <div class="tab-pane fade" id="v-pills-fomes2010" role="tabpanel" aria-labelledby="v-pills-fomes2010-tab">
               <?php include ('./dotk/05main/fomes2010.php'); ?>
@@ -69,10 +75,11 @@
               <?php include ('./dotk/05main/pifi2012.php'); ?>
             </div>
 
+<!--
             <div class="tab-pane fade" id="v-pills-pifi2013" role="tabpanel" aria-labelledby="v-pills-pifi2013-tab">
-              <?php include ('./dotk/05main/pifi2013.php'); ?>
+              <?php //include ('./dotk/05main/pifi2013.php'); ?>
             </div>
-
+-->
             <div class="tab-pane fade" id="v-pills-profocie2014" role="tabpanel" aria-labelledby="v-pills-profocie2014-tab">
               <?php include ('./dotk/05main/profocie2014.php'); ?>
             </div>
